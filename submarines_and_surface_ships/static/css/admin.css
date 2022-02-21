@@ -1,0 +1,11 @@
+#header {
+    background: #2b2727;
+}
+
+.module caption, .submit-row input, input[type=submit].default, .module h2 {
+    background: #575454;
+}
+
+div.breadcrumbs {
+    background: #5c531c;
+}
